@@ -12,6 +12,6 @@ Created using Processing (https://processing.org/)
 
 2. Open 'waterfall.exe' file
 
-3. Click on the waterfall as shown below and see the waterfall come alive!
+3. Click on the waterfall near the red arrow as shown below and see the waterfall come alive!
 
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/waterfall_click.png)
