@@ -6,7 +6,7 @@ Simulation of a waterfall by manipulating velocity and acceleration of particles
 
 Created using Processing (https://processing.org/)
 
-##To Play
+###To see the waterfall come alive
 
 1. Download 'application.widows64' or 'application.windows32' folder based on whether your PC is 64-bit or 32-bit
 
